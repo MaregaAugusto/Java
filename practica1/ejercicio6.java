@@ -69,6 +69,7 @@ public class ejercicio6 {
                 default:
                     System.out.println("Chau");
                     bandera=false;
+                    scan.close();
                     break;
             }
         } while (bandera);

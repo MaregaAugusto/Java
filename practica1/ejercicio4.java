@@ -1,7 +1,5 @@
 package Java.practica1;
-
 import java.util.Scanner;
-
 public class ejercicio4 {
     
 

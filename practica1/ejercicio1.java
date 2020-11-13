@@ -1,4 +1,4 @@
-package practica1;
+package Java.practica1;
 
 /**
  * ejercicio1
